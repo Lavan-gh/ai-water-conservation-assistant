@@ -18,3 +18,12 @@ This project presents a conversational AI assistant that provides insights, reco
 
 ## Project Status
 Conceptual prototype with documented workflows and prompts.
+
+## AI Workflow (Prototype)
+
+1. User provides basic water usage details or asks a question related to daily water consumption.
+2. The AI assistant processes the input using a predefined prompt focused on sustainability and water conservation.
+3. The system compares the input with sustainable water usage benchmarks.
+4. The AI generates clear insights, awareness messages, and practical water-saving recommendations.
+5. The user uses these insights to make informed decisions about reducing water wastage.
+
